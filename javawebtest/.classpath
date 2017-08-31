@@ -76,5 +76,19 @@
 	<classpathentry kind="lib" path="libs/commons-logging-1.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="libs/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/lib/ant-1.9.6.jar"/>
+	<classpathentry kind="lib" path="libs/lib/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="lib" path="libs/lib/asm-5.2.jar"/>
+	<classpathentry kind="lib" path="libs/lib/cglib-3.2.5.jar"/>
+	<classpathentry kind="lib" path="libs/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/lib/javassist-3.22.0-CR2.jar"/>
+	<classpathentry kind="lib" path="libs/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/lib/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/lib/log4j-core-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/lib/ognl-3.1.15.jar"/>
+	<classpathentry kind="lib" path="libs/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="libs/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="libs/mybatis-3.4.5.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.43-bin.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
